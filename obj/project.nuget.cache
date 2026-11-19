@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ykgNXLDogEg=",
+  "success": true,
+  "projectFilePath": "/Users/lisdel/AspNetPostsExtended/AspNetPostsExtended.csproj",
+  "expectedPackageFiles": [
+    "/Users/lisdel/.nuget/packages/microsoft.aspnetcore.openapi/11.0.0/microsoft.aspnetcore.openapi.11.0.0.nupkg.sha512",
+    "/Users/lisdel/.nuget/packages/microsoft.openapi/3.11.0/microsoft.openapi.3.11.0.nupkg.sha512",
+    "/Users/lisdel/.nuget/packages/scalar.aspnetcore/3.0.2/scalar.aspnetcore.3.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
